@@ -10,11 +10,11 @@ class Program
         var producte = Console.ReadLine();
 
         Console.WriteLine("Quin es el preu?");
-        int numero = Console.ReadLine();
-        int preu = Convert.ToInt32(text)
+        var preu = Console.ReadLine();
+        int num = Convert.ToInt32(preu);
 
         Console.WriteLine("Esta en estoc?");
-        string estoc = Console.ReadLine();
+        var estoc = Console.ReadLine();
 
         Console.WriteLine($"El producte {producte} val {preu} la seva disponibilitat es {estoc}");
     }
