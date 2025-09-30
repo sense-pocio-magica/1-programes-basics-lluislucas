@@ -1,0 +1,5 @@
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici3\obj\Debug\net9.0\exercici3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici3\obj\Debug\net9.0\exercici3.AssemblyInfoInputs.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici3\obj\Debug\net9.0\exercici3.AssemblyInfo.cs
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici3\obj\Debug\net9.0\exercici3.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici3\obj\Debug\net9.0\exercici3.sourcelink.json

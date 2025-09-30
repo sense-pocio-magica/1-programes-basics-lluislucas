@@ -6,6 +6,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+    Console.WriteLine("Nom del producte?");
+        var producte = Console.ReadLine();
+
+        Console.WriteLine("Quin es el preu?");
+        int numero = Console.ReadLine();
+        int preu = Convert.ToInt32(text)
+
+        Console.WriteLine("Esta en estoc?");
+        string estoc = Console.ReadLine();
+
+        Console.WriteLine($"El producte {producte} val {preu} la seva disponibilitat es {estoc}");
     }
 }
