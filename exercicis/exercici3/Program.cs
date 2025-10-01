@@ -19,14 +19,13 @@ class Program
 
         if (hihastock)
 
-            Console.WriteLine("✅ Tenim " + stock + "unitats");
+            Console.WriteLine(" Tenim " + stock + "unitats");
 
 
         else
         {
-            Console.WriteLine("❌ No hi ha stock.");
+            Console.WriteLine(" No hi ha stock.");
         }
 
-        Console.WriteLine($"El producte {producte} val {preu} la seva disponibilitat es {hihastock} + unitats");
     }
 }

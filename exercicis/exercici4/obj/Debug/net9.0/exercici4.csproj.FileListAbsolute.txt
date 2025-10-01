@@ -1,0 +1,15 @@
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\obj\Debug\net9.0\exercici4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\obj\Debug\net9.0\exercici4.AssemblyInfoInputs.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\obj\Debug\net9.0\exercici4.AssemblyInfo.cs
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\obj\Debug\net9.0\exercici4.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\obj\Debug\net9.0\exercici4.sourcelink.json
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\bin\Debug\net9.0\exercici4.exe
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\bin\Debug\net9.0\exercici4.deps.json
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\bin\Debug\net9.0\exercici4.runtimeconfig.json
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\bin\Debug\net9.0\exercici4.dll
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\bin\Debug\net9.0\exercici4.pdb
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\obj\Debug\net9.0\exercici4.dll
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\obj\Debug\net9.0\refint\exercici4.dll
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\obj\Debug\net9.0\exercici4.pdb
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\obj\Debug\net9.0\exercici4.genruntimeconfig.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici4\obj\Debug\net9.0\ref\exercici4.dll
