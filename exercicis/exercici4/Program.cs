@@ -10,7 +10,17 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Nom del producte?");
+        var producte = Console.ReadLine();
+
+        Console.WriteLine("Quin es el preu?");
+        var preu = Console.ReadLine();
+        int num = Convert.ToInt32(preu);
+
+        Console.WriteLine("Esta en estoc?");
+        var estoc = Console.ReadLine();
+
+        Console.WriteLine($"El producte {producte} val {preu} la seva disponibilitat es {estoc}");
         
     }
 }

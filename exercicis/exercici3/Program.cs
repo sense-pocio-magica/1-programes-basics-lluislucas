@@ -11,11 +11,22 @@ class Program
 
         Console.WriteLine("Quin es el preu?");
         var preu = Console.ReadLine();
-        int num = Convert.ToInt32(preu);
+        double num = Convert.ToDouble(preu);
 
         Console.WriteLine("Esta en estoc?");
-        var estoc = Console.ReadLine();
+        int stock = 7; //aixo son les unitats
+        bool hihastock = stock > 0;
 
-        Console.WriteLine($"El producte {producte} val {preu} la seva disponibilitat es {estoc}");
+        if (hihastock)
+
+            Console.WriteLine("✅ Tenim " + stock + "unitats");
+
+
+        else
+        {
+            Console.WriteLine("❌ No hi ha stock.");
+        }
+
+        Console.WriteLine($"El producte {producte} val {preu} la seva disponibilitat es {hihastock} + unitats");
     }
 }
