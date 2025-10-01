@@ -22,7 +22,7 @@ class Program
         var nom = Console.ReadLine();
 
         Console.WriteLine("Quin es el teu cognom?");
-        string cognom = Console.ReadLine();
+        var cognom = Console.ReadLine();
 
         Console.WriteLine("Em dic " + cognom + "," + nom + " " + cognom);
     }
