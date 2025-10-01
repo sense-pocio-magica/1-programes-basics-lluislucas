@@ -10,15 +10,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Nom del producte?");
+        Console.WriteLine("Quin és el preu en pessetes?");
         var producte = Console.ReadLine();
+        int trans = Convert.ToInt32(producte);
 
         Console.WriteLine("Quin es el preu?");
         var preu = Console.ReadLine();
         int num = Convert.ToInt32(preu);
 
-        Console.WriteLine("Esta en estoc?");
-        var estoc = Console.ReadLine();
 
         Console.WriteLine($"El producte {producte} val {preu} la seva disponibilitat es {estoc}");
         
