@@ -1,0 +1,15 @@
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\bin\Debug\net9.0\exercici8.exe
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\bin\Debug\net9.0\exercici8.deps.json
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\bin\Debug\net9.0\exercici8.runtimeconfig.json
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\bin\Debug\net9.0\exercici8.dll
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\bin\Debug\net9.0\exercici8.pdb
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\obj\Debug\net9.0\exercici8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\obj\Debug\net9.0\exercici8.AssemblyInfoInputs.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\obj\Debug\net9.0\exercici8.AssemblyInfo.cs
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\obj\Debug\net9.0\exercici8.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\obj\Debug\net9.0\exercici8.sourcelink.json
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\obj\Debug\net9.0\exercici8.dll
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\obj\Debug\net9.0\refint\exercici8.dll
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\obj\Debug\net9.0\exercici8.pdb
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\obj\Debug\net9.0\exercici8.genruntimeconfig.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici8\obj\Debug\net9.0\ref\exercici8.dll
