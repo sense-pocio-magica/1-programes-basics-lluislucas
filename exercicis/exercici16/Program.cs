@@ -5,7 +5,7 @@ a partir de la mitjana de les notes les pràctiques i la nota de l’examen ens 
 
 Nota de pràctiques: 8
 Nota de l’examen: 9
-La nota final és 8.7 o sigui un 8
+La nota final és 8.7 o sigui un 9
 
 Nota de pràctiques: 10
 Nota de l’examen: 5

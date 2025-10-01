@@ -5,6 +5,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+    Console.WriteLine("Tria nom d'ususari?");
+        string? user = Console.ReadLine();
+
+        Console.WriteLine("Quin domini vols");
+        string? domini = Console.ReadLine();
+
+        
+
+        Console.WriteLine("Adreça email " + user + "@" + domini + " només els més valents segueixen amb la compte de hotmail ;)" );
     }
 }
