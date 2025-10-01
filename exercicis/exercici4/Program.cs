@@ -11,15 +11,15 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Quin és el preu en pessetes?");
-        var producte = Console.ReadLine();
-        int trans = Convert.ToInt32(producte);
+        var preuproducte = Console.ReadLine();
 
-        Console.WriteLine("Quin es el preu?");
-        var preu = Console.ReadLine();
-        int num = Convert.ToInt32(preu);
+        double  preupessetes = Convert.ToInt32(preuproducte);
 
+        double numero;
+        double valoreuro = 166.386;
+        numero = preupessetes / valoreuro;
 
-        Console.WriteLine($"El producte {producte} val {preu} la seva disponibilitat es {estoc}");
+        Console.WriteLine($"El producte que val  {preuproducte} pessetes son {numero} en euros");
         
     }
 }
