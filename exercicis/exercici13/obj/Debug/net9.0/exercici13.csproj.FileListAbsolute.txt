@@ -1,0 +1,15 @@
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\bin\Debug\net9.0\exercici13.exe
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\bin\Debug\net9.0\exercici13.deps.json
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\bin\Debug\net9.0\exercici13.runtimeconfig.json
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\bin\Debug\net9.0\exercici13.dll
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\bin\Debug\net9.0\exercici13.pdb
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\obj\Debug\net9.0\exercici13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\obj\Debug\net9.0\exercici13.AssemblyInfoInputs.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\obj\Debug\net9.0\exercici13.AssemblyInfo.cs
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\obj\Debug\net9.0\exercici13.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\obj\Debug\net9.0\exercici13.sourcelink.json
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\obj\Debug\net9.0\exercici13.dll
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\obj\Debug\net9.0\refint\exercici13.dll
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\obj\Debug\net9.0\exercici13.pdb
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\obj\Debug\net9.0\exercici13.genruntimeconfig.cache
+C:\Users\lluis\Desktop\GS DAW\1r\PROGRAMACIO\1-programes-basics-lluislucas\exercicis\exercici13\obj\Debug\net9.0\ref\exercici13.dll

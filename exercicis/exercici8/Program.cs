@@ -6,7 +6,14 @@ Calcula quantes hores senceres i minuts restants són i imprimeix el resultat. *
 
 /* int meitat = numero / 2;
 int modul = numero % 2;
-int modul = numero % 60; */
+int modul = numero % 60;
+
+int hores = minuts/60
+minuts_calcul = minuts-hores * 60---15 minuts
+minuts-calcul = minuts % 60 ----15
+
+
+ */
 class Program
 {
     static void Main(string[] args)

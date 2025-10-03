@@ -1,4 +1,7 @@
-﻿namespace exercici13;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.Runtime.InteropServices.Marshalling;
+
+namespace exercici13;
 
 /* Un alumne ha inventat un sistema per codificar dates que consisteix a eliminar els separadors de les dates 
 per fer no es vegi que són dates (la data 24/09/2024 la converteix en 24092024). 
@@ -17,6 +20,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("escriu un numero");
+        string numero = Console.ReadLine();
+
+        string dia = numero.Substring(0, 2);
+        string mes = numero.Substring(2, 2);
+        string any = numero.Substring(4, 4);
+
+        Console.WriteLine($"la data {dia}/{mes}/{any}");
     }
 }

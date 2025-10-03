@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Coral Planagumà\\.nuget\\packages\\": {}
+    "C:\\Users\\lluis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici13\\exercici13.csproj",
+      "projectUniqueName": "C:\\Users\\lluis\\Desktop\\GS DAW\\1r\\PROGRAMACIO\\1-programes-basics-lluislucas\\exercicis\\exercici13\\exercici13.csproj",
       "projectName": "exercici13",
-      "projectPath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici13\\exercici13.csproj",
-      "packagesPath": "C:\\Users\\Coral Planagumà\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici13\\obj\\",
+      "projectPath": "C:\\Users\\lluis\\Desktop\\GS DAW\\1r\\PROGRAMACIO\\1-programes-basics-lluislucas\\exercicis\\exercici13\\exercici13.csproj",
+      "packagesPath": "C:\\Users\\lluis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lluis\\Desktop\\GS DAW\\1r\\PROGRAMACIO\\1-programes-basics-lluislucas\\exercicis\\exercici13\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Coral Planagumà\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lluis\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
