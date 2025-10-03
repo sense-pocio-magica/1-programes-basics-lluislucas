@@ -11,18 +11,17 @@ class Program
 }*/
 class Program
 {
-    static void Main(string[] args);
+    static void Main(string[] args)
 
-
+{
 
     Console.WriteLine("digues una paraula");
-    
     string paraula = Console.ReadLine();
 
-    primeralletra = paraula.Length[0]
-    mitjalletra = paraula.Length / 2
+    char primeralletra = paraula[0];
+    char mitjalletra = paraula[paraula.Length / 2];
+    char ultimalletra = paraula[paraula.Length - 1];
 
-        ultimalletra = paraula.Length-1
-
-        Console.WriteLine($ "Les lletres son {primeralletra} + {mitjalletra} + {ultimalletra} ");
+    Console.WriteLine($"Les lletres son {primeralletra} + {mitjalletra} + {ultimalletra} ");
+}
 }
