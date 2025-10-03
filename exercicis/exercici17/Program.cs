@@ -15,6 +15,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Introdueix un numero:");
+        string numero = Console.ReadLine();
+
+        Console.WriteLine("quants decimals te el numero");
+        int posicionsacomptar = Convert.ToInt32(Console.ReadLine());
+
+        string decimals = numero.Substring(numero.Length - posicionsacomptar);
+
+        Console.WriteLine("Número lleig: " + numero);
+        Console.WriteLine("Numero marevallos:  0 ," + decimals);
     }
 }
+// no se m'acut res mes per saber els decimals

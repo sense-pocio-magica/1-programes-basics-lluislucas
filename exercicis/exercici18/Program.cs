@@ -11,12 +11,22 @@ D'aquí a 3 hores seran les 12
 Hora actual: 11
 Hores a incrementar: 3
 D'aquí a 3 hores seran les 2
+++(+1)
 */ 
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Quina hora es ara (1-12): ?");
+        int ara = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Hores a incrementar: ");
+        int incrementhora = Convert.ToInt32(Console.ReadLine());
+
+
+        int novaHora = (ara + incrementhora) % 12;
+        
+        Console.WriteLine($"D'aquí a {incrementhora} hores seran les {novaHora}");
     }
 }

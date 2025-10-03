@@ -15,7 +15,20 @@ La nota final és 6.5 o sigui un 7
 class Program
 {
     static void Main(string[] args)
+    
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Quina es la nota de practiques, posa decimals amb coma? ");
+        float practiques = float.Parse(Console.ReadLine());
+
+        Console.Write("Quina es la nota de l'examen, posa decimals amb coma? ");
+        float examen = float.Parse(Console.ReadLine());
+
+
+        float mitjana = (practiques + examen) / 2f;
+
+        float notarrodonida = (float)Math.Round(mitjana, 0);
+        
+        Console.WriteLine($" La nota final es {mitjana} o sigui {notarrodonida}");
     }
-}
+    }
+
