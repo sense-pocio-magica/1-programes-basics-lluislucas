@@ -12,21 +12,32 @@ El número invertit és: 743
 fem modul 10  em dvidira 730 i donara residu 2
 
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
 
+
+Fet a classe
 Tractant el numero com a sttring
 
 string num = " 345"
 string centenes = num[0];---3
 string desenes = num [1];---4
-string unitats = [2];---5
+string unitats = [2];---5 */
 
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Escriu numero de 3 xifres");
+        string num = Console.ReadLine();
+
+        char centenes = num[0];
+        char desenes = num[1];
+        char unitats = num[2];
+        
+        Console.WriteLine($"el numero es....{unitats}{desenes}{centenes}"); 
+    }
+}
+
+/*
 CWL ( unitats + desenes + centenes);
 
 Tractant el numero com a numero
@@ -36,4 +47,4 @@ Tractant el numero com a numero
 int unitats = 345 
 int unitats = 345 % 10 = 5
 int centenes = 345 / 100 = 3
-int desenes = ( 345 % 100) = 3
+int desenes = ( 345 % 100) = 3 */
