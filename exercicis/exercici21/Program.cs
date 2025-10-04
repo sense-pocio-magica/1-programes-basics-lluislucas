@@ -16,7 +16,7 @@ Pq preguntem "quantitat o qualitat" i no "qualitat i mancança"?Perque qualitat 
 PQ si es bo n'hi ha poc,costa de trobar lo bo. si és dolent n'hi ha molt i n'hi ha molt pq no te valor, 
 es el cami facil. Fer les coses be es el mes dificil i no hi ha moltes maneres possibles de ferho.
 
-toma codi per saber algu com es, 
+toma codi per saber algu com es, es chatgtp encara no ho ser fer
 */
 
 using System;
