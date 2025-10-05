@@ -2,7 +2,7 @@
 
 /* Perquè tens escrit a un perfil públic "Em penso que deixo de lluitar contra la superficialitat humana"? 
 M'ha fet pensar... perque algu pensa aixi i ho escriu a un lloc on ho pot veure tothom?
-es un descuit, vol provocar a algú, una proba
+es un descuit, vol provocar a algú, una proba?
 
 Ningu pot ser 0% superficial forma part de la naturalesa humana, com l enveja ,l avaricia, la humilitat o la generositat.
 No importa tenir un punt de superficial, no pots  matarte a intentar ser 0% doncs tb pot portar a situacions de perill.
