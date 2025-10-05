@@ -14,7 +14,7 @@ class Program
         double num = Convert.ToDouble(preu);
 
         Console.WriteLine("Esta en estoc?");
-        int stock = 0; //aixo son les unitats
+        int stock = 8; //aixo son les unitats
         bool hihastock = stock > 0;
         
         if (hihastock ==true)

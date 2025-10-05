@@ -1,10 +1,11 @@
 ﻿namespace exercici21;
 
-/* Perquè tens escrit a un perfil públic "Em penso que deixo de lluitar contra la superficialitat humana"?
+/* Perquè tens escrit a un perfil públic "Em penso que deixo de lluitar contra la superficialitat humana"? 
+M'ha fet pensar que algu pensi aixi
 
 Ningu pot ser 0% superficial forma part de la naturalesa humana, com l enveja ,l avaricia, la humilitat o la generositat.
-No importa tenir un punt de superficial no pots  matarte a intentar ser 0% doncs tb pot portar a situacions de perill.
-Seria inocencia pura i dura i la vida es una selva en guerra que no perdona a ningu.
+No importa tenir un punt de superficial, no pots  matarte a intentar ser 0% doncs tb pot portar a situacions de perill.
+Algu 0 sup seria inocencia pura i dura i el mon es una selva en guerra que no perdona a ningu.
 
 Potser nomes els animals no son superficials
 
@@ -14,9 +15,10 @@ Si no vols ser superficial i troves gent superficial aparta ls, canvia d entorn.
 
 Pq preguntem "quantitat o qualitat" i no "qualitat i mancança"?Perque qualitat i mancança no son antagonistes estan relacionats.
 PQ si es bo n'hi ha poc,costa de trobar lo bo. si és dolent n'hi ha molt i n'hi ha molt pq no te valor, 
-es el cami facil. Fer les coses be es el mes dificil i no hi ha moltes maneres possibles de ferho.
+es el cami facil. Fer les coses be es el mes dificil i no hi ha moltes maneres possibles de ferho. 
+Per aixo sembla tothom superficial, pq n hi ha mes pero no vols dia que no hi hagi connexions profundes, costen mes de trobar.
 
-toma codi per saber algu com es, es chatgtp encara no ho ser fer
+toma codi per saber algu com es, es chatgtp encara no ho ser fer jo((( . Pots fer servir alguna en una convers per calar a la gent.
 */
 
 using System;
