@@ -1,13 +1,14 @@
 ﻿namespace exercici21;
 
 /* Perquè tens escrit a un perfil públic "Em penso que deixo de lluitar contra la superficialitat humana"? 
-M'ha fet pensar que algu pensi aixi
+M'ha fet pensar... perque algu pensa aixi i ho escriu a un lloc on ho pot veure tothom?
+es un descuit, vol provocar a algú, una proba
 
 Ningu pot ser 0% superficial forma part de la naturalesa humana, com l enveja ,l avaricia, la humilitat o la generositat.
 No importa tenir un punt de superficial, no pots  matarte a intentar ser 0% doncs tb pot portar a situacions de perill.
 Algu 0 sup seria inocencia pura i dura i el mon es una selva en guerra que no perdona a ningu.
 
-Potser nomes els animals no son superficials
+Potser nomes els animals no son superficials, mira els gossos que estan amb mendigos
 
 És mes questio de percentatges, hi ha un moment que has de decidir quins seran els valors amb els que et guies a la vida.
 La forsa d un ser s identifica per la voluntat de guiarse segons els seus valors independentment de la situacio 
@@ -18,7 +19,9 @@ PQ si es bo n'hi ha poc,costa de trobar lo bo. si és dolent n'hi ha molt i n'hi
 es el cami facil. Fer les coses be es el mes dificil i no hi ha moltes maneres possibles de ferho. 
 Per aixo sembla tothom superficial, pq n hi ha mes pero no vols dia que no hi hagi connexions profundes, costen mes de trobar.
 
-toma codi per saber algu com es, es chatgtp encara no ho ser fer jo((( . Pots fer servir alguna en una convers per calar a la gent.
+Volia compartir-ho perquè no vull que una persona com tu, si realment pensa aixi, es rendeixi o conformi. 
+El codi es chatgtp encara no ho ser fer jo((( . 
+Pots fer servir alguna en una conversa per calar a la gent.
 */
 
 using System;
