@@ -18,7 +18,7 @@ class Program
     Console.WriteLine("digues una paraula");
     string paraula = Console.ReadLine();
 
-    char primeralletra = paraula[0];
+    char primeralletra = paraula[0]; // parentesi marca la posicio
     char mitjalletra = paraula[paraula.Length / 2];
     char ultimalletra = paraula[paraula.Length - 1];
 
