@@ -41,7 +41,7 @@ class Program
 
 
 
-        Console.WriteLine($" els resulatsts son {suma} , {resta} , {multiplicacio} , {divisio}  i en sobra {decimals}");
+        Console.WriteLine($"els resulatsts son {suma} , {resta} , {multiplicacio} , {divisio}  i en sobra {decimals}");
 
     } 
 }
