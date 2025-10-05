@@ -8,7 +8,7 @@ class Program
 {
     static void Main(string[] args)
     {
-    Console.WriteLine("Com et dius?");
+        Console.WriteLine("Com et dius?");
         string nom = Console.ReadLine();
 
         Console.WriteLine("Quin any has nascut?");
@@ -16,6 +16,7 @@ class Program
 
         int any_naixament = Convert.ToInt32(any);
 
-        Console.WriteLine("PWD recomenat e indestructible " + nom + any_naixament + " 9 de cada 10 especialistas la recomiendan" );
+        Console.WriteLine("PWD recomenat e indestructible " + nom + any_naixament + " 9 de cada 10 especialistas la recomiendan");
+        Console.WriteLine("PWD recomenat e indestructible " + string.Concat(nom, any_naixament) + " 9 de cada 10 especialistas la recomiendan" );
     }
 }

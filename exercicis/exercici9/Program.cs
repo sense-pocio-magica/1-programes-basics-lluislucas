@@ -14,7 +14,7 @@ class Program
 
         double numero;
         double valorpeus = 3.28084;
-        numero = mida * 3.28084;
+        numero = mida * valorpeus;
 
         Console.WriteLine($"El valor de  {mida} m son {numero} en peus");
         
