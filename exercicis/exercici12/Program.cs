@@ -37,7 +37,8 @@ class Program
         int resta= numero1-numero2;
         int multiplicacio= numero1*numero2;
         int divisio= numero1/numero2;
-        int decimals = divisio % 1;
+        int decimals = divisio % 1;         // pq si dividim per 1 sempre dona els decimals despres de treure la part entera et deixa el ameteix numero i obtens el decimal
+
 
 
 

@@ -11,7 +11,7 @@ class Program
 
         Console.WriteLine("Quin es el preu?");
         var preu = Console.ReadLine();
-        double num = Convert.ToDouble(preu);
+        double num = Convert.ToDouble(preu);    // aqui convertim string a int en dos passos
 
         Console.WriteLine("Esta en estoc?");
         int stock = 8; //aixo son les unitats

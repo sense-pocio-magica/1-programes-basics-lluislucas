@@ -19,7 +19,7 @@ class Program
     static void Main(string[] args)
     {
         Console.Write("Quina hora es ara (1-12): ?");
-        int ara = Convert.ToInt32(Console.ReadLine());
+        int ara = Convert.ToInt32(Console.ReadLine());      //passem la resposta de string a int en un sol pas
 
         Console.Write("Hores a incrementar: ");
         int incrementhora = Convert.ToInt32(Console.ReadLine());

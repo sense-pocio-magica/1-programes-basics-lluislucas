@@ -17,16 +17,16 @@ class Program
     static void Main(string[] args)
     
     {
-        Console.Write("Quina es la nota de practiques, posa decimals amb coma? ");
+        Console.Write("Quina es la nota de practiques, posa decimals amb coma? ");  // amb coma perque sino no funciona
         float practiques = float.Parse(Console.ReadLine());
 
         Console.Write("Quina es la nota de l'examen, posa decimals amb coma? ");
         float examen = float.Parse(Console.ReadLine());
 
 
-        float mitjana = (practiques + examen) / 2f;
+        float mitjana = (practiques + examen) / 2f;    // float perque sino no ens donara els decimals, l he hagut de forçar perque sino em donava error
 
-        float notarrodonida = (float)Math.Round(mitjana, 0);
+        float notarrodonida = (float)Math.Round(mitjana, 0); // per arrodonir a numeros enter mes proper
         
         Console.WriteLine($" La nota final es {mitjana} o sigui {notarrodonida}");
     }
