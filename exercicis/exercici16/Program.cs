@@ -18,10 +18,10 @@ class Program
     
     {
         Console.Write("Quina es la nota de practiques, posa decimals amb coma? ");  // amb coma perque sino no funciona
-        float practiques = float.Parse(Console.ReadLine());
+        float practiques = Convert.ToSingle(Console.ReadLine());         //float practiques = Convert.ToSingle(Console.ReadLine())
 
         Console.Write("Quina es la nota de l'examen, posa decimals amb coma? ");
-        float examen = float.Parse(Console.ReadLine());
+        float examen = Convert.ToSingle(Console.ReadLine());
 
 
         float mitjana = (practiques + examen) / 2f;    // float perque sino no ens donara els decimals, l he hagut de forçar perque sino em donava error

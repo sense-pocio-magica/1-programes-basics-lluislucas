@@ -11,7 +11,7 @@ class Program
             Console.WriteLine("Com et dius?");
             string nom = Console.ReadLine();
 
-            char lletranom = char.ToUpper(nom[0]);   // charinicial = char.ToUpper(nom[0])
+            char lletranom = char.ToUpper(nom[0]);   // charinicial = char.ToUpper(nom[0]) char pq es nomes una lletra
             string restanom = nom.Substring(1);
 
             Console.WriteLine("Quin es el teu cognom?");
