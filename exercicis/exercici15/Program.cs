@@ -11,16 +11,16 @@ class Program
             Console.WriteLine("Com et dius?");
             string nom = Console.ReadLine();
 
-            string primeralletra = nom[0].ToString().ToUpper();
+            char lletranom = char.ToUpper(nom[0]);   // charinicial = char.ToUpper(nom[0])
             string restanom = nom.Substring(1);
 
             Console.WriteLine("Quin es el teu cognom?");
             string cognom = Console.ReadLine();
 
-            string primeralletra2 = cognom[0].ToString().ToUpper();
+            char lletracognom = char.ToUpper(cognom[0]);
             string restacognom = cognom.Substring(1);
 
-            Console.WriteLine("Em dic " + primeralletra + restanom + " " + primeralletra2 + restacognom);
+            Console.WriteLine("Em dic " + lletranom + restanom + " " + lletracognom + restacognom);
         }
     }
 
