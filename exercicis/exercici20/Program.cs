@@ -48,3 +48,5 @@ int unitats = 345
 int unitats = 345 % 10 = 5
 int centenes = 345 / 100 = 3
 int desenes = ( 345 % 100) = 3 */
+
+
